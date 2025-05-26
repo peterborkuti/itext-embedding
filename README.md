@@ -1,6 +1,8 @@
 # itext_embed
 
 This project demonstrates how to embed fonts in a PDF document using iText.
+Yu can check the hello.pdf if it displays text correctly and pdffonts-output.txt
+if all the fonts are embedded or not.
 
 ## Dependencies
 
