@@ -1,12 +1,12 @@
 name                                 type              encoding         emb sub uni object ID
 ------------------------------------ ----------------- ---------------- --- --- --- ---------
-XPDXRT+NotoSans-Bold                 CID TrueType      Identity-H       yes yes yes      6  0
-VAUAUF+NotoSansMono-Regular          CID TrueType      Identity-H       yes yes yes     15  0
-APMEQF+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes      7  0
-JBOSMG+NotoSerif-Regular             CID TrueType      Identity-H       yes yes yes      8  0
-NFLNMW+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      9  0
-BCNLAR+NotoSans-BoldItalic           CID TrueType      Identity-H       yes yes yes     10  0
-XQFHWW+NotoSansMono-Bold             CID TrueType      Identity-H       yes yes yes     11  0
-BUWNSN+NotoSerif-BoldItalic          CID TrueType      Identity-H       yes yes yes     12  0
-MFESDW+NotoSans-Italic               CID TrueType      Identity-H       yes yes yes     13  0
-HJJGQB+NotoSans-Regular              CID TrueType      Identity-H       yes yes yes     14  0
+NBBLUC+NotoSans-Bold                 CID TrueType      Identity-H       yes yes yes      6  0
+GXJEYE+NotoSansMono-Regular          CID TrueType      Identity-H       yes yes yes     15  0
+OVUAAY+NotoSerif-Bold                CID TrueType      Identity-H       yes yes yes      7  0
+TZPXZG+NotoSerif-Regular             CID TrueType      Identity-H       yes yes yes      8  0
+MZMIML+NotoSerif-Italic              CID TrueType      Identity-H       yes yes yes      9  0
+SUVCXO+NotoSans-BoldItalic           CID TrueType      Identity-H       yes yes yes     10  0
+SSKKIG+NotoSansMono-Bold             CID TrueType      Identity-H       yes yes yes     11  0
+HQDNZA+NotoSerif-BoldItalic          CID TrueType      Identity-H       yes yes yes     12  0
+IEGSOU+NotoSans-Italic               CID TrueType      Identity-H       yes yes yes     13  0
+CWWOGX+NotoSans-Regular              CID TrueType      Identity-H       yes yes yes     14  0
