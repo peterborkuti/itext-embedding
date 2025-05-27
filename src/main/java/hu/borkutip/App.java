@@ -34,7 +34,8 @@ public class App {
 
 
         // Embed all the fonts
-        fonts.values().forEach(document::setFont);
+        // We do not need this, embedding works.
+        //fonts.values().forEach(document::setFont);
 
         // Check all the fonts
         String string = "ÉÁŰŐÚÖÜÓÍéáűőúöüóí";
